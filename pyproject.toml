@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fibonacci"
+version = "0.0.1"
+authors = [
+  { name="Jingyang Wang", email="wangjy2010@126.com" },
+]
+description = "A Python Library for Fibonacci Numbers"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/cyan_ice/fibonacci"
+Issues = "https://github.com/cyan_ice/fibonacci/issues"
