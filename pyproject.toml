@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/cyan_ice/fibonacci"
-Issues = "https://github.com/cyan_ice/fibonacci/issues"
+Homepage = "https://github.com/cyan-ice/fibonacci"
+Issues = "https://github.com/cyan-ice/fibonacci/issues"

@@ -13,7 +13,7 @@ You can clone the repository and install the package locally:
 #### Unix/macOS
 
 ```bash
-git clone https://github.com/cyan_ice/fibonacci
+git clone https://github.com/cyan-ice/fibonacci
 cd fibonacci
 python3 -m pip install .
 ```
@@ -21,14 +21,14 @@ python3 -m pip install .
 #### Windows
 
 ```bash
-git clone https://github.com/cyan_ice/fibonacci
+git clone https://github.com/cyan-ice/fibonacci
 cd fibonacci
 py -m pip install .
 ```
 
 ### From Wheel
 
-Or you can download the wheel file from the [releases](https://github.com/cyan_ice/fibonacci/releases) or the [dist directory](https://github.com/cyan_ice/fibonacci/tree/main/dist) and install it:
+Or you can download the wheel file from the [releases](https://github.com/cyan-ice/fibonacci/releases) or the [dist directory](https://github.com/cyan-ice/fibonacci/tree/main/dist) and install it:
 
 #### Unix/macOS
 
